@@ -10,6 +10,7 @@ Description: Declares how .mdc files are structured and prioritized across the p
   - 001–099: Core/project-wide rules
   - 100–199: Workflow and integration rules
   - 200–299: Pattern and style rules
+  - 300–399: Technology-specific rules (frameworks, libraries, tools)
 - Higher NNN takes precedence when Globs overlap
 - Each rule should target a single logical purpose (SRP)
 - Use Cursor GUI to assign Rule Type: Always, Auto, Manual, AgentRequested
