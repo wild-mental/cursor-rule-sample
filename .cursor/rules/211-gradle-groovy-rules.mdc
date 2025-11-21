@@ -53,5 +53,5 @@ tasks.named('test') {
 ```
 
 ## See also:
-- [210-java-spring-cursor-rules.mdc](mdc:.cursor/rules/210-java-spring-cursor-rules.mdc) for Java and Spring guidelines
-- [002-tech-stack.mdc](mdc:.cursor/rules/002-tech-stack.mdc) for technology stack details
+- [210-java-spring-cursor-rules.mdc](210-java-spring-cursor-rules.mdc) for Java and Spring guidelines
+- [002-tech-stack.mdc](002-tech-stack.mdc) for technology stack details
