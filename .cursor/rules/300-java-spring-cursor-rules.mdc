@@ -30,6 +30,6 @@ alwaysApply: false
 - Implement proper validation using Bean Validation (e.g., @Valid, custom validators)
 
 See also:
-- [211-gradle-groovy-rules.mdc](211-gradle-groovy-rules.mdc) for build configuration guidelines
+- [301-gradle-groovy-rules.mdc](301-gradle-groovy-rules.mdc) for build configuration guidelines
 - [001-project-overview.mdc](001-project-overview.mdc) for project context
 - [002-tech-stack.mdc](002-tech-stack.mdc) for technology stack details
