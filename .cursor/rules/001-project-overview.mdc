@@ -38,5 +38,5 @@ alwaysApply: true
 - [Add your specific principles here]
 
 ## See also:
-- [002-tech-stack.mdc](mdc:.cursor/rules/002-tech-stack.mdc) for implementation details
-- [003-development-guidelines.mdc](mdc:.cursor/rules/003-development-guidelines.mdc) for development standards
+- [002-tech-stack.mdc](002-tech-stack.mdc) for implementation details
+- [003-development-guidelines.mdc](003-development-guidelines.mdc) for development standards

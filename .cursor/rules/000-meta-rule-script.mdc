@@ -104,6 +104,6 @@ alwaysApply: false
 - Design for observability and monitoring
 
 ## See also:
-- [001-project-overview.mdc](mdc:.cursor/rules/001-project-overview.mdc) for project-specific details
-- [003-development-guidelines.mdc](mdc:.cursor/rules/003-development-guidelines.mdc) for development standards
-- [100-error-fixing-process.mdc](mdc:.cursor/rules/100-error-fixing-process.mdc) for problem resolution
+- [001-project-overview.mdc](001-project-overview.mdc) for project-specific details
+- [003-development-guidelines.mdc](003-development-guidelines.mdc) for development standards
+- [100-error-fixing-process.mdc](100-error-fixing-process.mdc) for problem resolution
